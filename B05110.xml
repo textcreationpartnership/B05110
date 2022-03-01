@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Recommendation in favours of Duncan Forbes of Collodden</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05110</idno>
+            <idno type="STC">Wing R629A</idno>
+            <idno type="STC">ESTC R200408</idno>
+            <idno type="EEBO-CITATION">52614877</idno>
+            <idno type="OCLC">ocm 52614877</idno>
+            <idno type="VID">176030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176030)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Recommendation in favours of Duncan Forbes of Collodden</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forbes, Duncan, 1644?-1704 --  Early works to 1800.</term>
+               <term>War damage compensation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176030:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>RECOMMENDATION In favours of DUNCAN FORBES of COLLODDEN</head>
+            <opener>
+               <dateline>
+                  <seg rend="decorInit">A</seg>T <hi>Edinburgh,</hi> 
+                  <date>The ſeventeenth Day of <hi>July</hi> One Thouſand Six Hundred and Ninty Five Years,</date>
+               </dateline> Anent the Pe<g ref="char:EOLhyphen"/>tition given in and preſented unto His Majeſties High Commiſſioner and the Eſtates of Parliament, by <hi>Duncan For<g ref="char:EOLhyphen"/>bes</hi> of <hi>Collodden,</hi>
+            </opener>
+            <p>Humbly ſhewing, That the Petitioners Eſtate being laid waſt, in <hi>anno</hi> One Thouſand Six Hun<g ref="char:EOLhyphen"/>dred eighty and Nine, and One thouſand ſix hundred and ninty by the Incurſions and Depredations of the Kings Enemies, and by the Forrageing of the Kings Forces: And the Parliament having granted warrand to the Sherrif or Shertif-Deput of <hi>Inverneſs</hi> or <hi>Nairn,</hi> to take tryal and probation thereanent, and Report to the Parliament<g ref="char:punc">▪</g> which accordingly was done upon the ſeventeenth and eighteen Days of <hi>July.</hi> and tenth Day of <hi>October</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred and ninty one, as the ſaid warrant of Parliament and Reports therewith produced did teſtify. Therefore humbly Craving. That His Grace and the Eſtates of Parliament would refer his caſe to the tryal of a <hi>Quorum</hi> of the Committee for privat Affairs and upon their Report to do thereanent as in their Wiſdom ſhould be thought fit, Which Petition being upon the Twelvth day of <hi>July</hi> in<g ref="char:EOLhyphen"/>ſtant read and conſidered in plain Parliament. His Majeſties High Commiſſioner and the Eſtates of Parliament, have Remitted, and hereby Remitt the ſame to the Committee for privat Affairs, to prepare and Report: Which Committee of privat Affaires, having upon the thirteenth Day of <hi>July</hi> inſtant conform to the Remit of Parliament, conveened, and having reviſed and conſidered the Report dated the ſeventeenth and eighteenth days of <hi>June</hi> One thouſand ſix hundred and ninty one Years, of the Loſſes and Damages ſuſtained by <hi>Duncan Forbes</hi> of <hi>Collodden,</hi> and his Tennents of <hi>Ferrintoſh</hi> within the Parochines of <hi>
+                  <g ref="char:V">Ʋ</g>rquhart</hi> and <hi>Loggie,</hi> through Depredations, Theiſts and Robberies committed upon them, by the late Highland Rebels while in Arms, As they were liquidat and proven by Depoſiti<g ref="char:EOLhyphen"/>ons taken before <hi>Alexander Chiſholm</hi> Sherrif Deput of <hi>Inverneſs</hi> by warrand and Commiſſion of Parliament direct to him to that effect: As alſo, Another Report of Loſſes ſuſtained by him and his Tennents within the Parochines of <hi>Inverneſs, Petty, Deviot Croy,</hi> and <hi>Wardlaw,</hi> done partly by the Rebels, and partly by His Majeſties Regular Forces, Dated the tenth Day of <hi>October</hi> One thouſand ſix hundred and ninty one, as the ſamen was cognoſced before the ſaid Sherriff Deput upon Oath, they found, that the value of the ſaids Damages ſuſtained by the ſaid <hi>Duncan Forbes</hi> and his Tennets in <hi>Ferrintoſh,</hi> extends to Thirty ſix thouſand four hundreth and fifty four pounds thirteen ſhillings four pennies <hi>Scots</hi> Money: And that the value of the Damages ſuſtained by him and his Tennents within the ſaids Parochines of <hi>Inverneſs, Petty, Deviot, Croy,</hi> and <hi>Wardlaw,</hi> Extends to ten thouſand nine hundred fourty five pound thir<g ref="char:EOLhyphen"/>teen ſhilling, four pennies, <hi>Inde</hi> in all the value of the ſaids whole Damages, Extends of Fourty ſeven thouſand and four hundred pounds ſix ſhillings eight pennies <hi>Scots</hi> Money foreſaid, and it is the opinion of the Committee, that the ſaid <hi>Duncan Forbes</hi> of <hi>Collodden</hi> be recom<g ref="char:EOLhyphen"/>mended to His Majeſties Royal and Gracious conſideration, for the Reparation of his ſaid Damages, as His Majeſty ſhould think fit, And the Report of the ſaid Committy for private Affairs being this day brought in therefrom, and read and conſidered in plain Parliament His Majeſties High Commiſſioner, and the Eſtates of Parliamet, have approven, and hereby approve the ſame, and Recommended and hereby Recommend the Laird of <hi>Collodden</hi> to His Majeſties Gracious conſideration for the Reparation of his Damages as His Maje<g ref="char:EOLhyphen"/>ſty should think fit.</p>
+            <byline>Extracted forth of the Records of Parliament, by <hi>George Viſcount</hi> of <hi>Tarbat</hi> Lord <hi>Macleod</hi> and <hi>Caſtle-haven &amp;c.</hi> Clerk to the Par<g ref="char:EOLhyphen"/>liament, and to His Majeſties Councils Exchequer Regiſters and Rolls.</byline>
+            <closer>
+               <signed>Tarbat Cl: Regiſter.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
